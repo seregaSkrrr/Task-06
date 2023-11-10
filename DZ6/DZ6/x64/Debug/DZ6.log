@@ -1,0 +1,3 @@
+﻿  DZ6.cpp
+C:\Users\kravt\source\repos\DZ6\DZ6\DZ6.cpp(92,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  DZ6.vcxproj -> C:\Users\kravt\source\repos\DZ6\x64\Debug\DZ6.exe
